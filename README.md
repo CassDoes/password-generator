@@ -9,7 +9,7 @@ A website that can create random passwords based off criteria entered by user.
 * JavaScript
 
 ## Website
-https://cassdoes.github.io/run-buddy/
+https://cassdoes.github.io/password-generator/
 
 ## Contribution
 Made with ❤️ by [cassdoes]
